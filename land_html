@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>landing page</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="navbar">
+            <img src="triplogo.jpg" class="logo">
+            <nav>
+                <ul>
+                    <li><a href="">Home</a></li>
+                    <li><a href="">About</a></li>
+                    <li><a href="">Seats</a></li>
+                    <li><a href="">Destination</a></li>
+                    
+                </ul>
+            </nav>
+        </div>
+        <img src="pic.jpg" class="image">
+        </div>
+    </div>
+
+    <section class="sect_conn plan_cont">
+        <p class="subhead">TRAVEL SUPPORT</p>
+        <h2 class="sechead">Plan your travel</h2>
+        <p class="desc">Find help with your bookings and travel plans.</p>
+        <div class="plangr"></div>
+            <div class="plan_con">
+                <span class="num">1</span>
+                <h4>Requirements</h4>
+                <p>
+                    Start with an unusual tradition you witnessed, an interesting dialogue you faced during your journey.
+                </p>
+                <span class="num">2</span>
+                <h4>Stay in well-reviewed accommodations</h4>
+                <p>
+                    Choosing a safe and secure accommodation is an important part of staying safe when  high-risk country. 
+                </p>
+                <span class="num">3</span>
+                <h4>Travel Requiremnets</h4>
+                <p>
+                    Start with an unusual tradition you witnessed, an interesting dialogue you or a cultural misunderstanding.
+                </p>
+            </div>
+        <div class="plain">
+            <img src="p1.jpg" alt="plan">
+            <img src="p2.jpg" class="plan">
+            <img src="p3.jpg" class="plan">
+        </div>
+    </div> 
+    </section>
+
+    
+    <div class="service">
+        <div class="title">
+            <h2>Travel</h2>
+        </div>
+        <div class="box">
+            <div class="card">
+                <i class="fa-solid fa-bars"></i>
+                <h5>Bookings</h5>
+                <div class="pra">
+                    <p> In order to book flight ticket logon to IRCTC Air, enter departure and arrival destination, travel dates, number of passengers and travel flights that you can compare and choose from.</p>
+                        <p style="text-align: center;">
+                        <a class="button" href="#">Read More</a></p>
+                </div>
+            </div>
+
+            <div class="card">
+                <i class="fa-regular fa-user"></i>
+                <h5>View</h5>
+                <div class="pra">
+                    <p>The airline company's name shall be listed on the top, and the ticket number shall be listed next. The passenger details should be listed in the middle of the ticket.</p>
+                        <p style="text-align: center;">
+                        <a class="button" href="#">Read More</a></p>
+                </div>
+            </div>
+
+            <div class="card">
+                <i class="fa-solid fa-bell"></i>
+                <h5>Check More</h5>
+                <div class="pra">
+                    <p>Go to the airline's website. Enter in your reservation, confirmation or credit card number where appropriate.Check the status of the flight at the same time.</p>
+                        <p style="text-align: center;">
+                        <a class="button" href="#">Read More</a></p>
+                        </div>
+                        </div>
+            
+               
+    </body>
+    
+</html>
